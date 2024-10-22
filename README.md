@@ -21,9 +21,11 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ### PROGRAM:
+```
 Program to print the text “ExplicitIntent”.
 Developed by: SRIDHARN J
 RegisterNumber: 212222040158
+```
 ### MainActivity.java:
 ```package com.example.workshop;
 import android.support.v7.app.AppCompatActivity;
